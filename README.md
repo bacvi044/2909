@@ -111,5 +111,41 @@ b.Quyết định của cơ quan tư pháp
 51.	Nhược điểm của nguyên tắc quản lý trực tiếp là gì?
 d.Không đảm bảo được tính chuyên môn hóa
 
+NOTE LÝ THUYẾT
 
+1. Đối tượng và Phương pháp điều chỉnh
+Đối tượng điều chỉnh: Là các quan hệ xã hội phát sinh trong hoạt động quản lý hành chính nhà nước.
+Phương pháp điều chỉnh: Chủ yếu là phương pháp mệnh lệnh - đơn phương. Cơ quan nhà nước dựa trên quyền lực để đưa ra các quyết định bắt buộc đối tượng quản lý phải thi hành.
+2. Các nguyên tắc cơ bản của Luật Hành chính
+Hệ thống quản lý hành chính Việt Nam vận hành dựa trên các nguyên tắc chủ đạo:
+Tập trung dân chủ: Đảm bảo sự chỉ đạo thống nhất từ Trung ương đồng thời phát huy tính chủ động của địa phương.
+Pháp chế Xã hội Chủ nghĩa: Mọi hoạt động quản lý phải tuân thủ nghiêm ngặt theo quy định của pháp luật.
+Đảng lãnh đạo: Đảng định hướng chính trị cho các hoạt động quản lý nhà nước.
+3. Văn bản quy phạm pháp luật (VBQPPL)
+Bạn cần đặc biệt lưu ý về thẩm quyền và hiệu lực:
+Thẩm quyền ban hành:
+Chính phủ: Ban hành Nghị định để quy định chi tiết thi hành luật của Quốc hội.
+Bộ trưởng: Ban hành Thông tư.
+Quốc hội: Quyết định các vấn đề lớn như thành lập, chia tách đơn vị hành chính cấp tỉnh.
+Hiệu lực: VBQPPL cấp Trung ương (như Nghị định) thường có hiệu lực sau ít nhất 45 ngày kể từ ngày ký ban hành.
+4. Quyết định hành chính
+Đây là nội dung thực tế rất quan trọng:
+Đặc điểm: Mang tính quyền lực nhà nước đơn phương.
+Phân biệt: Khác với VBQPPL, quyết định hành chính thường áp dụng một lần cho các đối tượng cụ thể (ví dụ: quyết định xử phạt cá nhân A).
+5. Cán bộ, Công chức và Tập sự
+Phân loại: Dựa vào ngạch, bậc và trình độ.
+Thời gian tập sự:
+Trình độ Đại học (Loại C): 12 tháng.
+Trình độ Cao đẳng/Trung cấp: 06 tháng.
+6. Xử lý vi phạm hành chính, Khiếu nại và Tố cáo
+Thời hiệu xử phạt: Lĩnh vực giao thông đường bộ thường là 01 năm.
+Giải quyết khiếu nại:
+Khiếu nại lần đầu do người ra quyết định giải quyết.
+Khiếu nại lần hai đối với quyết định của Chủ tịch UBND cấp xã sẽ do Chủ tịch UBND cấp huyện giải quyết.
+Tiếp công dân: Chủ tịch UBND cấp huyện phải tiếp dân ít nhất 02 ngày/tháng, cấp tỉnh ít nhất 01 ngày/tháng.
+7. Phòng, chống tham nhũng
+Các hành vi tham nhũng bao gồm:
+Lợi dụng chức vụ, quyền hạn để vụ lợi.
+Nhận quà tặng trái quy định.
+Tiết lộ thông tin bí mật nhà nước nhằm mục đích vụ lợi.
 
