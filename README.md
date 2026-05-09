@@ -1,4 +1,5 @@
 # 2909
+
 lhc
 Cơ quan thẩm định không tiếp nhận hồ sơ gửi thẩm định nếu dự án, dự thảo văn bản quy phạm pháp luật có quy định về thủ tục hành chính chưa có văn bản nào?
 d.Bản đánh giá tác động về thủ tục hành chính và ý kiến góp ý của cơ quan kiểm soát thủ tục hành chính
@@ -10,7 +11,6 @@ b.Văn phòng Chính phủ
 c.Ủy ban nhân dân tỉnh
 3.	Trường hợp nào sau đây được xét cho thường trú?
 a.Người nước ngoài là nhà khoa học, chuyên gia đang tạm trú tại Việt Nam
-
 4.	Nguyên tắc kiểm soát thủ tục hành chính là:
 b.Bổ sung thủ tục hành chính cần thiết, đáp ứng nhu cầu thực tế
 5.	Viên chức đã có thời gian làm việc tại đơn vị sự nghiệp công lập từ đủ năm năm trở lên, khi muốn chuyển thành công chức thông qua phương thức nào?
@@ -90,8 +90,6 @@ d.Có quan hệ ngoại giao với Việt Nam
 a.Chỉ huy trưởng Bộ đội biên phòng Cửa khẩu cảng
 42.	Mức tiền phạt đối với A (16 tuổi) điều khiển xe đạp không đi bên phải theo chiều đi của mình là?
 d.Từ 40.000 nghìn đồng đến 50.000 đồng
-
-
 43.	Căn cứ thôi quốc tịch Việt Nam là gì?
 d.Đang định cư ở nước ngoài
 44.	Quản lý hành chính Nhà nước khác với các hoạt động quản lý khác bởi tính chất?
