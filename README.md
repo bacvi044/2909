@@ -111,6 +111,10 @@ b.Quyết định của cơ quan tư pháp
 51.	Nhược điểm của nguyên tắc quản lý trực tiếp là gì?
 d.Không đảm bảo được tính chuyên môn hóa
 
+Hiến pháp 2013 quy định Chủ tịch nước có vai trò gì trong việc công bố các luật đã được Quốc hội thông qua?
+c. Công bố các luật và pháp lệnh.
+
+
 NOTE LÝ THUYẾT
 
 1. Đối tượng và Phương pháp điều chỉnh
@@ -148,4 +152,11 @@ Các hành vi tham nhũng bao gồm:
 Lợi dụng chức vụ, quyền hạn để vụ lợi.
 Nhận quà tặng trái quy định.
 Tiết lộ thông tin bí mật nhà nước nhằm mục đích vụ lợi.
-
+8. Vị trí quốc hội ở điều 69 Hiến Pháp 2013
+9. Công dân có quyền tự do lập hội, hội họp và biểu tình vì các mục tiêu kinh tế, xã hội, văn hóa, miễn là phù hợp với quy định pháp luật, nhằm thúc đẩy tinh thần đoàn kết, phát triển cộng đồng và tham gia vào các hoạt động xã hội một cách tích cực.
+10. Ủy ban Thường vụ Quốc hội chịu trách nhiệm giám sát hoạt động của các cơ quan thuộc Chính phủ và chính quyền địa phương, bảo đảm các hoạt động này không trái với Hiến pháp và pháp luật.
+11. Trường phái quyền tự nhiên xem quyền con người là bẩm sinh, không phụ thuộc vào pháp luật, trong khi trường phái quyền pháp lý coi quyền này được xác định qua luật pháp.
+12. Quyền lập hiến tạo ra nền tảng, còn quyền lập pháp điều chỉnh chi tiết.
+13. Ủy ban Thường vụ Quốc hội có quyền yêu cầu Chính phủ báo cáo công tác định kỳ, quyết định triệu tập các kỳ họp Quốc hội, và có thể đề nghị Chủ tịch nước bãi nhiệm Thủ tướng nếu cần thiết.
+14. Hiến pháp đề cập đến quyền lực quốc gia, trong khi luật thông thường chỉ điều chỉnh các vấn đề xã hội cụ thể.
+15. Các tổ chức chính trị, các tổ chức chính trị - xã hội, tổ chức xã hội và các cá nhân tiêu biểu trong các giai cấp, tầng lớp xã hội, dân tộc, tôn giáo, người Việt Nam định cư ở nước ngoài đều có thể tham gia vào Mặt trận Tổ quốc Việt Nam.
