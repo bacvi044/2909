@@ -1,9 +1,11 @@
 # 2909
-
 lhc
 Cơ quan thẩm định không tiếp nhận hồ sơ gửi thẩm định nếu dự án, dự thảo văn bản quy phạm pháp luật có quy định về thủ tục hành chính chưa có văn bản nào?
+
 d.Bản đánh giá tác động về thủ tục hành chính và ý kiến góp ý của cơ quan kiểm soát thủ tục hành chính
+
 Ai chịu trách nhiệm tổ chức việc nhập, đăng tải công khai các thủ tục hành chính và văn bản quy định về thủ tục hành chính đã được công bố vào Cơ sở dữ liệu quốc gia về thủ tục hành chính?
+
 d.Bộ trưởng, thủ trưởng cơ quan ngang bộ
 1.	Cơ quan có trách nhiệm chủ trì, phối hợp với các bộ, ngành, địa phương xây dựng và duy trì cơ sở dữ liệu quốc gia về thủ tục hành chính là cơ quan nào?
 b.Văn phòng Chính phủ
@@ -22,7 +24,6 @@ b.Trưởng Công an xã M
 8.	Đơn vị hành chính cấp huyện được phân làm mấy loại?
 c.03 loại
 9.	Số lượng cấp phó của người đứng đầu vụ, văn phòng, thanh tra, cục, đơn vị sự nghiệp công lập không quá?
-
 c.03 người
 10.	Trường hợp không xử phạt vi phạm hành chính đối với cá nhân?
 d.Thực hiện hành vi vi phạm hành chính do sự kiện bất ngờ
@@ -98,13 +99,16 @@ d.Tính quyền lực Nhà nước
 a.Có đủ năng lực thực hiện
 46.	Mức tiền phạt đối với A (17 tuổi) điều khiển xe mô tô không có gương chiếu hậu bên trái là?
 b.Từ 50.000 đồng đến 100.000 nghìn đồng
-47.	Nguyên tắc pháp chế XHCN đòi hỏi tiền đề?
+
+48.	Nguyên tắc pháp chế XHCN đòi hỏi tiền đề?
 a.Có hệ thống pháp luật hoàn chỉnh
-48.	Cơ quan nào có trách nhiệm xác minh và lập hồ sơ kiến nghị Chủ tịch nước hủy bỏ Quyết định cho nhập quốc tịch Việt Nam?
+49.	Cơ quan nào có trách nhiệm xác minh và lập hồ sơ kiến nghị Chủ tịch nước hủy bỏ Quyết định cho nhập quốc tịch Việt Nam?
 c.Ủy ban nhân dân tỉnh
-49.	Các thông tin pháp lý phục vụ cho xây dựng dự thảo quyết định hành chính bao gồm:
+
+50.	Các thông tin pháp lý phục vụ cho xây dựng dự thảo quyết định hành chính bao gồm:
 b.Quyết định của cơ quan tư pháp
-50.	Nhược điểm của nguyên tắc quản lý trực tiếp là gì?
+
+51.	Nhược điểm của nguyên tắc quản lý trực tiếp là gì?
 d.Không đảm bảo được tính chuyên môn hóa
 
 
