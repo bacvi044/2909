@@ -48,4 +48,10 @@ TCCNKT
 12. Công thức tính lãi.
     lãi gộp liên
 13. P' = R' - C'
+
+1 số đáp án: 
+
+- khi giá trị tham số a =1; hàm số f(x) liên tục nhưng không có đạo hàm tại x=2.
+- a + 2b = 8 ( 12;0;8;-4)
+- 9 ( 7;6;8;9)
     
